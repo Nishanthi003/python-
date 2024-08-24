@@ -1,0 +1,11 @@
+# PRIME NUMBER
+n=int(input("Enter n:"))
+def prime_num():
+    if(n==0 or n==1):
+       print(1)
+    if(n % 2==0 or n % 3==0):
+        print("It is not a prime number")
+    else:
+        print("It is a prime number")
+prime_num()   
+    
