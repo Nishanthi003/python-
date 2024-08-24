@@ -1,0 +1,13 @@
+a=int(input("Enter a:"))
+b=int(input("Enter b:"))
+def gcd_fact(a,b):
+    while(a>0 and b>0):
+        if (a>b):
+          a = a % b
+        else:
+          b = b % a 
+    if(a==0):
+        return b 
+    return a 
+print(gcd_fact(a,b))
+        
