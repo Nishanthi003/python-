@@ -1,0 +1,11 @@
+# PALINDROME
+n=int(input("Enter n:"))
+def palindrome(n):
+   a=str(n)
+   b=a[::-1]
+   b=int(a)
+   if(b==n):
+     print("It is a palindrome")
+   else:
+     print("Not a palindrome")
+palindrome(n)  
