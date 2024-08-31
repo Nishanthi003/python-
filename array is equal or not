@@ -1,0 +1,14 @@
+#ARRAY IS EQUAL OR NOT
+arr1=list(map(int, input("Enter array: ").split()))
+n1=len(arr1)
+arr2=list(map(int, input("Enter array: ").split()))
+n2=len(arr2)
+if n1!=n2:
+    print("Not equal")
+else:
+    arr1=sorted(arr1)
+    arr2=sorted(arr2)
+    if(arr1==arr2):
+        print("Equal")
+        
+    
