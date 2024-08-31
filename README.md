@@ -18,4 +18,7 @@
 ![Screenshot (15)](https://github.com/user-attachments/assets/bbdc0ed0-039b-42f9-88ed-015483de05c6)
 9.string manipulation_2
 ![Screenshot (16)](https://github.com/user-attachments/assets/2202548f-135b-4510-a438-16db907791f0)
+10.string count
+![Screenshot (17)](https://github.com/user-attachments/assets/7a1d6227-2de7-49b7-907d-182cfbe91252)
+
 
