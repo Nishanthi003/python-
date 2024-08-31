@@ -1,0 +1,35 @@
+s1="Hello,World! Welcome to python string manipulation."
+print(len(s1))
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.upper())
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.lower())
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.title())
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.count("p"))
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.startswith("Hello"))
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.endswith("."))
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.split())
+s1="Hello,World! Welcome to python string manipulation."
+a=",".join(s1)
+print(a)
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.replace("World","python"))
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.strip())
+s1="hello,World! Welcome to python string manipulation."
+print(s1.capitalize())
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.swapcase())
+s1=" Hello,World! Welcome to python string manipulation."
+print(s1.lstrip())
+s1="Hello,World! Welcome to python string manipulation.  "
+print(s1.rstrip())
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.find("come"))
+s1="Hello,World! Welcome to python string manipulation."
+print(s1.count("come"))
