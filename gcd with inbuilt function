@@ -1,0 +1,10 @@
+import math
+
+#Driver code
+
+a = 20
+b = 28
+
+gcd_result = math.gcd(a, b) # inbuilt function gcd() using math library
+
+print("The gcd of a and b is", gcd_result)
