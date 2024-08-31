@@ -1,0 +1,13 @@
+# the num difference num
+n=int(input("Enter the n:"))
+arr=list(map(int,input("Enter the array:").split()))
+num=int(input("Enter the num:"))
+diff=int(input("Enter the diff:"))
+count=0
+for i in range(n):
+    if(abs(arr[i]-num)<=diff):
+        count+=1
+print(count)
+        
+        
+    
