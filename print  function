@@ -1,0 +1,7 @@
+n=input("Enter the name:")
+date=input("enter date:")
+month=input("enter month:")
+year=input("enter year:")
+for date in range(13,20):
+    if(date<=20):
+        print(n + '  ' + str(date) + '/' +str(month) + '/' +str(year) )
