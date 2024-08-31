@@ -16,5 +16,6 @@
 ![Screenshot (13)](https://github.com/user-attachments/assets/5c3d0ef1-ca2f-4d87-9852-0ed56ee684d0)
 ![Screenshot (14)](https://github.com/user-attachments/assets/b8b3441f-19d6-4969-8701-8dd644d74c0a)
 ![Screenshot (15)](https://github.com/user-attachments/assets/bbdc0ed0-039b-42f9-88ed-015483de05c6)
-
+9.string manipulation_2
+![Screenshot (16)](https://github.com/user-attachments/assets/2202548f-135b-4510-a438-16db907791f0)
 
