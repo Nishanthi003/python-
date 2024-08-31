@@ -1,0 +1,17 @@
+n1=41234
+def num(n1):
+   return n1.isnumeric()
+print(n1) 
+s1="Hello"
+def num():
+ return s1.isalpha()
+print(s1)    
+s="the sum"
+def num(s):
+  return s.isalpha(s)
+print(s)
+from itertools import permutations
+
+words = [''.join(p) for p in permutations('pro')]
+
+print(words)
