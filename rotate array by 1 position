@@ -1,0 +1,6 @@
+# Rotate array by  1 position left
+n=int(input("Enter n:"))
+arr1=list(map(int, input("Enter array: ").split()))
+n=n % len(arr1)
+arr=arr1[n:]+arr1[:n]
+print(arr)
