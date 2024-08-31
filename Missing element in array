@@ -1,0 +1,10 @@
+# Missing element in array
+arr=list(map(int,input().split()))
+n=int(input("Enter n:"))
+def find_missing(arr,n):
+    sum_arr=sum(arr)
+    a=n*(n+1)//2
+    sol=abs(a-sum_arr) 
+    print(sol)
+find_missing(arr,n)    
+    
