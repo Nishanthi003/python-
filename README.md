@@ -8,3 +8,5 @@
 ![Screenshot (9)](https://github.com/user-attachments/assets/d9c57006-ad30-4d0f-99ac-e32097958bfd)
 5.gcd with inbuilt function
 ![Screenshot (10)](https://github.com/user-attachments/assets/1af7181b-991e-4ca8-a408-34eb8925f144)
+6.last digit_s
+![Screenshot (11)](https://github.com/user-attachments/assets/78b3bf32-ae7f-4ee2-9ca5-18ed81b9a477)
