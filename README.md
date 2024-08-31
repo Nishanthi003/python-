@@ -20,5 +20,8 @@
 ![Screenshot (16)](https://github.com/user-attachments/assets/2202548f-135b-4510-a438-16db907791f0)
 10.string count
 ![Screenshot (17)](https://github.com/user-attachments/assets/7a1d6227-2de7-49b7-907d-182cfbe91252)
+11.print function
+![Screenshot (18)](https://github.com/user-attachments/assets/6617ba09-24e4-41b7-bc20-8fc7800392da)
+
 
 
