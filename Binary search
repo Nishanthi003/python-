@@ -1,0 +1,18 @@
+# BINARY SEARCH
+arr = list(map(int, input().split()))
+val = int(input("Enter the val: "))
+n = len(arr)
+low = 0
+high = n - 1
+
+while low <= high:
+    mid = (low + high) // 2  # Calculate mid inside the loop
+    if arr[mid] == val:
+        print(mid)
+        break
+    elif arr[mid] < val:
+        low = mid + 1
+    else:
+        high = mid - 1
+else:
+    print("Value not found")
