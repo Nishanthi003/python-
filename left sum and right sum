@@ -1,0 +1,11 @@
+# get an array and split into two if their left sum and right sum is equal the print balance index +1
+n=int(input("Enter n:"))
+arr=list(map(int,input().split()))
+s=n//2
+ls=sum(arr[0:s])
+rs=sum(arr[-s:])
+if(ls==rs):
+    print(s+1)
+else:
+    print("NOT FOUND")
+    
