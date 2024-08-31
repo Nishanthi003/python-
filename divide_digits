@@ -1,0 +1,9 @@
+#Get a num and split the num and check whether the num is divisible by the splited num and give output as count
+n=int(input("Enter n:"))
+def divide_digits(n):
+    count = 0
+    for i in str(n):
+        if i != '0' and n % int(i) == 0:
+            count += 1
+    return count
+divide_digits(n)
