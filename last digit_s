@@ -1,0 +1,8 @@
+# find the square of a with b and get the  last digit
+a=int(input("Enter a:"))
+b=int(input("Enter b:"))
+def last_digits(a,b):
+   c=a**b
+   d=c%10
+   print(d)
+last_digits(a,b)
