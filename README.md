@@ -12,3 +12,5 @@
 ![Screenshot (11)](https://github.com/user-attachments/assets/78b3bf32-ae7f-4ee2-9ca5-18ed81b9a477)
 7.Divide_digits
 ![Screenshot (12)](https://github.com/user-attachments/assets/888e6e06-a78b-4d84-bb86-f14eae5e5a7b)
+8.string manipulation
+![Screenshot (13)](https://github.com/user-attachments/assets/5c3d0ef1-ca2f-4d87-9852-0ed56ee684d0)
