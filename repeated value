@@ -1,0 +1,19 @@
+# finding which value is repeated
+arr = list(map(int, input("Enter array: ").split()))
+n = int(input("Enter n: "))
+
+def repeating_val(arr, n):
+    b = []
+    a = set()
+    
+    for i in arr:
+        if i in a:
+            b.append(i)
+        else:
+            a.add(i)
+    
+    # Print repeating values
+    for val in b:
+        print(val)
+
+repeating_val(arr, n)
