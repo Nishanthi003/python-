@@ -1,0 +1,13 @@
+# find the difference between the sum of num divisible by n and not divisible by n upto m
+n=int(input("Enter the n:"))
+m=int(input("Enter the m:"))
+sum=0
+sum_a=0
+for i in range(1,m+1):
+    if(i%n==0):
+        sum+=i
+    else:
+        sum_a+=i
+solution=abs(sum-sum_a)        
+        
+print(solution)
