@@ -1,0 +1,16 @@
+# 1.Get no of rat   2. then each rat food 3.then no of house 4. using this find how many houses are required to get the food for rats
+
+def rat_food(r,unit,house,arr):
+    r=int(input("Enter r:"))
+    unit=int(input("Enter the unit:"))
+    food=r*unit
+    print(food)
+    house=int(input("Enter the house:"))
+    arr=list(map(int,input().split()))
+    food_till_now=0
+    for i in range(house):
+        food_till_now +=arr[i]
+        if food_till_now>=food:
+           return i+1
+print(rat_food(r,unit,house,arr))             
+    
