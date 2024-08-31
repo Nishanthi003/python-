@@ -1,0 +1,12 @@
+#missing elemrnt in array 2
+arr=list(map(int,input().split()))
+n=int(input("Enter n:"))
+def find_missing(arr,n):
+    a=[]
+    for i in range (n):
+        if i not in arr:
+            print(i)
+find_missing(arr,n)            
+            
+            
+        
