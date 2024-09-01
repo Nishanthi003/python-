@@ -74,7 +74,7 @@
 ![Screenshot (38)](https://github.com/user-attachments/assets/3aae613e-0d48-43f8-89d6-39678d1ad846)
 37.find first negative num
 ![Screenshot (47)](https://github.com/user-attachments/assets/226d2e7f-456c-4592-9d0d-e4b064a4bb29)
-48.find whether the num is in array
+38.find whether the num is in array
 ![Screenshot (39)](https://github.com/user-attachments/assets/9ceae171-849f-460a-80c1-227948f0b727)
 
 
