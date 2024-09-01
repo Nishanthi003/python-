@@ -1,0 +1,8 @@
+#find first negative num
+arr=list(map(int,input("Enter the array:").split()))
+n=len(arr)
+a=[]
+for i in range(n):
+    if arr[i]<0:
+        a.append(arr[i])
+print(a[0])   
