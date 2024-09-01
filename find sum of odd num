@@ -1,0 +1,8 @@
+#find sum of odd num
+arr=list(map(int,input("Enter the array:").split()))
+n=len(arr)
+sum=0
+for i in range(n):
+    if arr[i]%2!=0:
+        sum+=arr[i]
+print(sum)        
