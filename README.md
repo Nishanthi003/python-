@@ -51,8 +51,33 @@
 25.Rotate array by  1 position right
 ![Screenshot (43)](https://github.com/user-attachments/assets/f39e6ed0-b324-4461-942e-e4e01aa889f7)
 26.Binary search
-![Screenshot (34)](https://github.com/user-attachments/assets/c0348c78-fe8d-4d85-ac3c-e68c35f44385)
-27.
+![Screenshot (31)](https://github.com/user-attachments/assets/ac90fbfe-eb39-4a99-b333-5def978fbc62)
+27.Factorial
+![Screenshot (32)](https://github.com/user-attachments/assets/6d9e211a-11a0-4031-bcbd-20a5e5c2b30f)
+28.sum of prime number indexe value
+![Screenshot (33)](https://github.com/user-attachments/assets/a5ef5d86-9999-4d0e-9790-efab87ee7b0e)
+29.canopy area
+![Screenshot (34)](https://github.com/user-attachments/assets/19d4c221-bc7d-41f4-a315-b26d2dd2d64a)
+30.find max without predefined function
+![Screenshot (44)](https://github.com/user-attachments/assets/40362a52-89fe-4ba0-9665-54d473eec1d2)
+31.find max with predefined
+![Screenshot (35)](https://github.com/user-attachments/assets/d5304c1f-aefc-453a-8968-ea38d04c2665)
+32.count no of even no in array
+![Screenshot (45)](https://github.com/user-attachments/assets/44388080-d0fe-4085-82c1-351641e02011)
+33.find sum of positive num in array
+![Screenshot (36)](https://github.com/user-attachments/assets/aae81eea-526c-4e70-968f-83b7e9e75bbc)
+34.count no of vowels in string
+![Screenshot (46)](https://github.com/user-attachments/assets/c893ce4a-ea91-4da1-b8aa-89d464182521)
+35.min num in array
+![Screenshot (37)](https://github.com/user-attachments/assets/deffb767-5017-4940-bbf2-ceb90723bdb3)
+36.sum of odd num
+![Screenshot (38)](https://github.com/user-attachments/assets/3aae613e-0d48-43f8-89d6-39678d1ad846)
+37.find first negative num
+![Screenshot (47)](https://github.com/user-attachments/assets/226d2e7f-456c-4592-9d0d-e4b064a4bb29)
+48.find whether the num is in array
+![Screenshot (39)](https://github.com/user-attachments/assets/9ceae171-849f-460a-80c1-227948f0b727)
+
+
 
 
 
