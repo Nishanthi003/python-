@@ -31,10 +31,14 @@
 15.password checker
 ![Screenshot (23)](https://github.com/user-attachments/assets/2dde207f-c899-4924-bfb4-445202234061)
 16.sorting
-![Screenshot (24)](https://github.com/user-attachments/assets/dcfd5cf9-1b75-4ddd-8bdd-b144c3e4488c)
-17.Bubble sort
 ![Screenshot (24)](https://github.com/user-attachments/assets/ff31646c-1778-4c12-ab33-0518a189e28e)
-18.
+17.Bubble sort
+![Screenshot (25)](https://github.com/user-attachments/assets/a50b6bf2-037d-4593-a558-10b738272b2b)
+18.difference of num
+![Screenshot (26)](https://github.com/user-attachments/assets/dbfeefaa-1455-4158-8174-b0d626f77aaf)
+19.
+![Screenshot (27)](https://github.com/user-attachments/assets/5353a780-0442-4c26-ae04-9f65da9aada5)
+
 
 
 
