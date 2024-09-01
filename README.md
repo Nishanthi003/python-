@@ -30,6 +30,8 @@
 ![Screenshot (40)](https://github.com/user-attachments/assets/431600cf-65d6-4938-8f20-33cd7cd371b9)
 15.password checker
 ![Screenshot (23)](https://github.com/user-attachments/assets/2dde207f-c899-4924-bfb4-445202234061)
+16.sorting
+![Screenshot (24)](https://github.com/user-attachments/assets/dcfd5cf9-1b75-4ddd-8bdd-b144c3e4488c)
 
 
 
