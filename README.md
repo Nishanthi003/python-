@@ -32,6 +32,9 @@
 ![Screenshot (23)](https://github.com/user-attachments/assets/2dde207f-c899-4924-bfb4-445202234061)
 16.sorting
 ![Screenshot (24)](https://github.com/user-attachments/assets/dcfd5cf9-1b75-4ddd-8bdd-b144c3e4488c)
+17.Bubble sort
+![Screenshot (24)](https://github.com/user-attachments/assets/ff31646c-1778-4c12-ab33-0518a189e28e)
+18.
 
 
 
