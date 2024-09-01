@@ -36,8 +36,24 @@
 ![Screenshot (25)](https://github.com/user-attachments/assets/a50b6bf2-037d-4593-a558-10b738272b2b)
 18.difference of num
 ![Screenshot (26)](https://github.com/user-attachments/assets/dbfeefaa-1455-4158-8174-b0d626f77aaf)
-19.
+19.difference between num divisible  and not divisible
 ![Screenshot (27)](https://github.com/user-attachments/assets/5353a780-0442-4c26-ae04-9f65da9aada5)
+20.missing element in array
+![Screenshot (28)](https://github.com/user-attachments/assets/5c7f9791-30ec-47c6-9eda-49993727c5f4)
+21.missing num in array
+![Screenshot (41)](https://github.com/user-attachments/assets/d2c21073-e99e-4365-b9c7-44199764b959)
+22.repeated value
+![Screenshot (29)](https://github.com/user-attachments/assets/bbe8ec96-1f63-4ad6-a707-438a6304f7d4)
+23.Array is equal or not
+![Screenshot (42)](https://github.com/user-attachments/assets/29f50634-83d9-452a-bd21-106c498318d4)
+24.Rotate array by  1 position left
+![Screenshot (30)](https://github.com/user-attachments/assets/c721f4bb-1436-461a-bd33-8b9d98fb879d)
+25.Rotate array by  1 position right
+![Screenshot (43)](https://github.com/user-attachments/assets/f39e6ed0-b324-4461-942e-e4e01aa889f7)
+26.Binary search
+![Screenshot (34)](https://github.com/user-attachments/assets/c0348c78-fe8d-4d85-ac3c-e68c35f44385)
+27.
+
 
 
 
