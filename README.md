@@ -26,6 +26,9 @@
 ![Screenshot (19)](https://github.com/user-attachments/assets/0a070452-3b26-4322-993c-593ad53131ab)
 13.left sum and right sum
 ![Screenshot (20)](https://github.com/user-attachments/assets/1c2d2036-37f1-4003-906a-cb62ae1161de)
+14.rat food
+![Screenshot (40)](https://github.com/user-attachments/assets/431600cf-65d6-4938-8f20-33cd7cd371b9)
+
 
 
 
