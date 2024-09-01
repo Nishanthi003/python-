@@ -1,0 +1,4 @@
+#canopy area
+d=5
+area=3.14*d*d
+print(round(area))
