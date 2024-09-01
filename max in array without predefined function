@@ -1,0 +1,9 @@
+# max in array without predefined function 
+arr=list(map(int,input("Enter the array:").split()))
+n=len(arr)
+for i in range(n):
+    for j in range(0,n-i-1):
+        if arr[j]>arr[j+1]:
+            arr[j],arr[j+1]=arr[j+1],arr[j]
+print(max(arr))            
+     
