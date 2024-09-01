@@ -22,6 +22,8 @@
 ![Screenshot (17)](https://github.com/user-attachments/assets/7a1d6227-2de7-49b7-907d-182cfbe91252)
 11.print function
 ![Screenshot (18)](https://github.com/user-attachments/assets/6617ba09-24e4-41b7-bc20-8fc7800392da)
+12.GFG
+![Screenshot (19)](https://github.com/user-attachments/assets/0a070452-3b26-4322-993c-593ad53131ab)
 
 
 
